@@ -52,5 +52,5 @@ If you use this dataset in your work, please cite it as:
   title     = {MVPOD},
   author    = {Haiyan Jin, Jintao Chen, Yuanlin Zhang},
   year      = {2025},
-  url       = {https://github.com/yourusername/AwesomeDataset}
+  url       = {https://github.com/iskiku/MVPOD}
 }
