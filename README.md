@@ -6,7 +6,7 @@ The MVPOD dataset contains **1,0470** images covering **8** object categories (i
 <img src="https://github.com/iskiku/MVPOD/blob/main/demo.png"/>
 You can use the MVPOD dataset to study object detection algorithms or rotated object detection algorithms. You can also study the variations in object detection performance under different vertical perspectives .
 
-### Dataset Features
+## Dataset Features
 
 - ✅ Data diversity. The MVPOD dataset contains remote sensing images, drone images, and near-ground images. These data cover different shooting heights, providing rich scene information and visual features for object recognition tasks.
 - ✅ Annotation diversity. The MVPOD dataset not only contains horizontal bounding box annotation information and rotated  bounding box annotation information, but also innovatively annotates the vertical perspective information of the object.
