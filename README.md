@@ -48,9 +48,12 @@ Please make sure to properly cite this dataset if you use it in your research.
 If you use this dataset in your work, please cite it as:
 
 ```bibtex
-@misc{MVPOD_Dataset,
-  title     = {MVPOD},
-  author    = {Haiyan Jin, Jintao Chen, Yuanlin Zhang},
-  year      = {2025},
-  url       = {https://github.com/iskiku/MVPOD}
+@article{rs17173029,
+	author = {Jin, Haiyan and Chen, Jintao and Zhang, Yuanlin and Su, Haonan and Wang, Bin},
+	title = {MVPOD: A Dataset and Benchmark for Multi-Vertical-Perspective Object Detection in Multi-Platform Remote Sensing Images},
+	journal = {Remote Sensing},
+	volume = {17},
+	year = {2025},
+	number = {17},
+	article-number = {3029}
 }
