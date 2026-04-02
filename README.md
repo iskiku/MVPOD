@@ -14,7 +14,7 @@ You can use the MVPOD dataset to study object detection algorithms or rotated ob
 
 ## Download
 
-You can download the dataset from the [Google Driver Link](https://drive.google.com/file/d/149Fo2hfIQ-O3uzeebLEMEAIAEYMvVKvd/view?usp=sharing).
+You can download the dataset from the [Google Driver Link](https://drive.google.com/file).
 
 > ⚠️ If the link is invalid or expired, feel free to open an issue or contact us!
 
